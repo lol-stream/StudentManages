@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentManagePlaForm.iml" filepath="$PROJECT_DIR$/StudentManagePlaForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgr-auth-service/mgr-auth-service.iml" filepath="$PROJECT_DIR$/mgr-auth-service/mgr-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgr-back-front/mgr-back-front.iml" filepath="$PROJECT_DIR$/mgr-back-front/mgr-back-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgr-exam-front/mgr-exam-front.iml" filepath="$PROJECT_DIR$/mgr-exam-front/mgr-exam-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgr-exam-service/mgr-exam-service.iml" filepath="$PROJECT_DIR$/mgr-exam-service/mgr-exam-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgr-student-service/mgr-student-service.iml" filepath="$PROJECT_DIR$/mgr-student-service/mgr-student-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgr-survey-front/mgr-survey-front.iml" filepath="$PROJECT_DIR$/mgr-survey-front/mgr-survey-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgr-survey-service/mgr-survey-service.iml" filepath="$PROJECT_DIR$/mgr-survey-service/mgr-survey-service.iml" />
+    </modules>
+  </component>
+</project>
